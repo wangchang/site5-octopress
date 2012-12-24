@@ -4,6 +4,8 @@ title: "Hello World"
 date: 2012-12-24 10:17
 comments: true
 categories: 
+- Life
+- Web
 ---
 
 这是一个测试
