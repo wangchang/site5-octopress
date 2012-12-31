@@ -7,7 +7,7 @@ categories:
 - Book
 - Life
 ---
-{% img left /images/books/book-daweideshangba.jpg 'morenings in jenin' 'daweideshangba' %}
+{% img left /images/books/book-daweideshangba.jpg 150 150 'morenings in jenin' 'daweideshangba' %}
 读完了《大卫的伤疤》这本书，一点小小的体会：
 
 这本书以1941-2003年这60多年的巴勒斯坦和以色列的冲突为背景，描写了横跨四代的巴勒斯坦人平民家族奋斗求生的故事。
