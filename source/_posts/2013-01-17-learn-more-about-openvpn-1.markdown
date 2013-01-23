@@ -14,7 +14,7 @@ openvpn驱动部分实现了网卡处理和字符设备。网卡处理网络数�
 
 关于虚拟网卡，TUN/TAP，感觉要学习的很多，我现在暂时的理解就是虚拟网卡可以相应的截断数据，然后交给应用程序处理。虚拟网卡没法直接发送数据，而是要交给应用层通过其他方式发送。如下图：
 
-{% img /images/201301/OpenVpn.png 'OpenVPN流程' 'OpenVPN流程' %}
+{% img /images/201301/OpenVPN.png 'OpenVPN流程' 'OpenVPN流程' %}
 
 总结，OpenVPN中发送数据:
 
